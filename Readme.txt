@@ -1,3 +1,5 @@
+A time analysis for the key generation, encryption and decryption operations of RSA.
+
 * Create a virtual environment using the command 'python3 -m venv venv'
 * Activate the virtual environment using "source venv/bin/activate"
 * Install the requirements using "pip install -r requirements.txt"
